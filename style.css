@@ -47,19 +47,19 @@ h2 {
 [href="mailto:sky.light.blr@gmail.com"]::before {
     content: url(icons/mail.png);
     position: relative;
-    top: 4px;
+    top: 3px;
     left: -2px;
 }
 [href="tel:+375293409424"]::before {
     content: url(icons/phone.png);
     position: relative;
-    top: 4px;
+    top:3px;
     left: -2px;
 }
 [href="https://t.me/owner_lt"]::before {
     content: url(icons/telegram.png);
     position: relative;
-    top: 4px;
+    top: 3px;
     left: -2px;
 }
 .contacts a:hover {
